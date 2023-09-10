@@ -10,7 +10,6 @@ A highly motivated individual with strong decision-making skills. Proficient in 
 ## Education
 **PES University | India, Bangalore**  
 - Bachelor of Technology in Electronics and Communication Engineering (Expected 2024)
-  - Specialization: VLSI domain (CGPA: 8.27)
 - Minor degree in Computer Science Engineering (2021-2023)
   - C programming, data structures, algorithms, operating systems, database management systems
 
